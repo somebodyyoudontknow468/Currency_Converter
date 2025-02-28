@@ -103,7 +103,7 @@ class CurrencyConverter:
             }
         }
         return texts[key][self.language]
-
+#nice code
 if __name__ == "__main__":
     root = tk.Tk()
     app = CurrencyConverter(root)
