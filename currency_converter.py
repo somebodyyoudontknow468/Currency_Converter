@@ -3,7 +3,7 @@ import tkinter as tk
 class CurrencyConverter:
     def __init__(self, root):
         self.root = root
-        self.root.title("Currency Converter")
+        self.root.title("Currency Converter") #Kommentar
         self.root.geometry("400x300")  # Fenster breiter gemacht
 
         # Spracheinstellungen
